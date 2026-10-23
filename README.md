@@ -16,6 +16,7 @@ Daily LeetCode solutions in Java, focusing on Data Structures, Algorithms, probl
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/D-Tien/leetcode-java-daily/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/D-Tien/leetcode-java-daily/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,4 +25,12 @@ Daily LeetCode solutions in Java, focusing on Data Structures, Algorithms, probl
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/D-Tien/leetcode-java-daily/tree/master/1346-check-if-n-and-its-double-exist) |
+## String
+|  |
+| ------- |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/D-Tien/leetcode-java-daily/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## String Matching
+|  |
+| ------- |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/D-Tien/leetcode-java-daily/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
