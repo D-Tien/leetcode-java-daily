@@ -7,6 +7,7 @@ Daily LeetCode solutions in Java, focusing on Data Structures, Algorithms, probl
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/D-Tien/leetcode-java-daily/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/D-Tien/leetcode-java-daily/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
