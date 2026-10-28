@@ -18,7 +18,7 @@ public:
         int n = s.length();
 
         for (int i = 0; i < n; i++) {
-            // Nếu giá trị hiện tại nhỏ hơn giá trị đứng sau nó, ta trừ đi
+            
             if (i + 1 < n && roman[s[i]] < roman[s[i + 1]]) {
                 total -= roman[s[i]];
             } else {
